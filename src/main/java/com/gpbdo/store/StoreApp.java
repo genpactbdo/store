@@ -29,7 +29,7 @@ public class StoreApp {
 
     private static final Logger log = LoggerFactory.getLogger(StoreApp.class);
 
-    private final Environment env;
+    private final Environment env; 
 
     public StoreApp(Environment env) {
         this.env = env;
